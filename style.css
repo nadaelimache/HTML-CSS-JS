@@ -1,0 +1,230 @@
+header #up-logo1 {
+    background-color: rgb(89, 81, 124);
+    width: 100%;
+    height: 48px;
+    display: block;
+    padding-top: 5px
+}
+
+#up-logo {
+    width: 110px;
+    margin-left: 33px;
+}
+
+header #up-logo2 {
+    background-color: rgb(88, 107, 160);
+    width: 100%;
+    height: 30px;
+    display: inline-block;
+}
+
+ul {
+    margin-left: 33px;
+    padding-top: 5px;
+}
+
+li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+body {
+    background-color: rgb(201, 206, 219);
+    width: 100%;
+    height: 100%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#orange {
+    height: 20px;
+    background-color: rgb(252, 98, 2);
+    margin-left: 33px;
+    margin-right: 33px;
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#orange p {
+    color: white;
+}
+
+main #green {
+    height: 190px;
+    display: block;
+    text-align: center;
+    background-image: url(bg-image.png);
+    margin-left: 33px;
+    margin-right: 33px;
+    margin-top: 30px;
+    color: white;
+}
+
+#green h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: 650;
+    padding-top: 60px;
+}
+
+#green #p {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 25px;
+    font-size: 20px;
+}
+
+#white {
+    display: block;
+    background-color: white;
+    margin-left: 33px;
+    margin-right: 33px;
+    height: 350px;
+    margin-left: 33px;
+    margin-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+
+.three {
+    display: inline-block;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+#three {
+    font-size: 20px;
+}
+
+.dark-green {
+    color: green;
+    font-weight: 200px;
+    font-size: 15px;
+    display: inline-block;
+}
+
+#unico {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#img1 {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    background-repeat: no-repeat;
+    position: center;
+    display: inline-block;
+    width: 280px;
+    height: 300px;
+    border-radius: 20px;
+    margin-bottom: 0;
+}
+
+.img1 {
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 0;
+}
+
+#img2 {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    background-repeat: no-repeat;
+    position: center;
+    display: inline-block;
+    width: 280px;
+    height: 300px;
+    border-radius: 20px;
+    margin-bottom: 0;
+    margin-left: 45px;
+}
+
+#img3 {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    background-repeat: no-repeat;
+    position: center;
+    display: inline-block;
+    width: 280px;
+    height: 300px;
+    border-radius: 20px;
+    margin-bottom: 0;
+    margin-left: 45px;
+}
+
+#img4 {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    background-repeat: no-repeat;
+    position: center;
+    display: inline-block;
+    width: 280px;
+    height: 300px;
+    border-radius: 20px;
+    margin-bottom: 0;
+    margin-left: 45px;
+}
+
+.cuffie {
+    display: block;
+    background-color: white;
+    margin-left: 33px;
+    margin-right: 33px;
+    height: 350px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding-bottom: 30px;
+}
+
+#cuffie {
+    width: 100%;
+}
+
+.description {
+    display: inline-block;
+    padding-top: 30px;
+    text-align: center;
+    padding-left: 500px;
+    padding-bottom: 10px;
+}
+
+.perfect-gift {
+ display: inline-block;
+ font-size: 20px;
+ padding-right: 30px;
+}
+
+#before-last {
+    background-color: rgb(88, 107, 160);
+    height: 45px;
+    margin-bottom: 0;
+    text-align: center;
+    padding-top: 25px;
+}
+
+#line{
+    text-decoration: underline;
+}
+
+#last {
+    background-color: rgb(89, 81, 124);
+    width: 100%;
+    height: 150px;
+    display: block;
+    padding-top: 5px
+}
+
+#last-img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 15%;
+    padding-top: 40px;
+}
